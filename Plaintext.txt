@@ -1,0 +1,7 @@
+laborator1/
+|--dvd/
+    |--debian.iso
+|--screenshot/
+|--debian_lab1.img
+|--Plaintext.txt
+|--README.md
